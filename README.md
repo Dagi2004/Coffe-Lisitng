@@ -1,8 +1,22 @@
-# React + Vite
+# Coffee Collection
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project showcases a responsive coffee menu with animations. It displays various coffee items, highlighting popular ones and indicating availability.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Responsive Design**: Adjusts to different screen sizes with a grid layout.
+- **Animated Appearance**: Smooth fade-in animations for menu items.
+- **Popular and Availability Badges**: Highlights popular items and shows if an item is sold out.
+
+## Technologies Used
+
+- **React**: Frontend JavaScript library.
+- **Tailwind CSS**: Utility-first CSS framework for styling.
+
+## Contributing
+
+1. Fork the repository.
+2. Create your feature branch (git checkout -b feature/YourFeature).
+3. Commit your changes (git commit -m 'Add some feature').
+4. Push to the branch (git push origin feature/YourFeature).
+5. Open a pull request.

@@ -136,8 +136,9 @@ const CoffeeList = () => {
         <p className="text-lightGrey">
           You can find out the project{" "}
           <a
-            href="https://github.com/Dagi2004/CoffeListing"
+            href="https://github.com/Dagi2004/Coffe-Lisitng"
             className="text-lightGreen"
+            target="blank"
           >
             Here
           </a>
